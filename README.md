@@ -1,4 +1,4 @@
-# pieces
+# Front-End-Components
 
 ## Project setup
 ```
