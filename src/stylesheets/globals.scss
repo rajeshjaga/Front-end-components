@@ -1,0 +1,16 @@
+*,
+*:after,
+*:before {
+  margin: 0;
+  padding: 0;
+}
+.app-title {
+  font-family: "Playfair Display", serif;
+  position: absolute;
+  bottom: 2em;
+  right: 1em;
+}
+.github {
+  text-decoration: none;
+  color: rgb(0, 136, 136);
+}
